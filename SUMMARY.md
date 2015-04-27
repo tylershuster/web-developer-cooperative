@@ -6,5 +6,5 @@
 * [Membership Requirements](membership_requirements.md)
 * [Member Relations](member_relations.md)
 * [Client Interaction](client_interaction.md)
-* Deception Techniques
+* [Deception Techniques](deception_techniques.md)
 
