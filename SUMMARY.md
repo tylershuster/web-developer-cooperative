@@ -4,5 +4,5 @@
 * [First Chapter](chapter1.md)
 * [Actualizing Principles](actualizing_principles.md)
 * [Membership Requirements](membership_requirements.md)
-* Member Relations
+* [Member Relations](member_relations.md)
 
