@@ -9,4 +9,5 @@
 * [Articles of Incorporation](articles_of_incorporation.md)
 * [Bylaws](bylaws.md)
    * Membership
+   * Shares
 
