@@ -20,5 +20,5 @@
    * [Inspection Rights](bylaws/inspection_rights.md)
    * [Surplus Allocations and Distributions](bylaws/surplus_allocations_and_distributions.md)
    * [Bylaw Changes](bylaws/bylaw_changes.md)
-* Software Requirements
+* [Software Requirements](software_requirements.md)
 
