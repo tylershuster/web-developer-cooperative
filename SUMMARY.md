@@ -9,7 +9,7 @@
 * [Articles of Incorporation](articles_of_incorporation.md)
 * [Bylaws](bylaws.md)
    * [Membership](bylaws/membership.md)
-   * Shares
+   * [Shares](bylaws/shares.md)
    * Termination of Membership
    * Membership Meetings and Members
    * Directors
