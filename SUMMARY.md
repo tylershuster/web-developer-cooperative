@@ -7,5 +7,5 @@
 * [Client Interaction](client_interaction.md)
 * [Deception Techniques](deception_techniques.md)
 * [Articles of Incorporation](articles_of_incorporation.md)
-* Bylaws
+* [Bylaws](bylaws.md)
 
