@@ -14,7 +14,7 @@
    * [Membership Meetings and Members](bylaws/membership_meetings_and_members.md)
    * [Directors](bylaws/directors.md)
    * [Officers](bylaws/officers.md)
-   * Corporate Records and Reports
+   * [Corporate Records and Reports](bylaws/corporate_records_and_reports.md)
    * Inspection Rights
    * Surplus Allocations and Distributions
    * Bylaw Changes
