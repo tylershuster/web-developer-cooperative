@@ -8,6 +8,8 @@ http://www.scs.sk.ca/cyber/elem/learningcommunity/english/media20/curr_content/m
 
 The following claims are technically true, but for reasons outlined in this document should be culled from the language of advertising. These claims all imply something, never explicitly say anything. This plants a doubt or a suggestion in the viewer's mind.
 
+These claims will probably be more successful than purely factual claims, because they appeal to the viewer at a level below their conscious, logical processing.
+
 ###Weasel Claims
 "Product X helps reduce symptom Y"
 helps, many, virtually, basically, fights, controls, comforts, acts, can be, up to, refreshes, 'just like'
