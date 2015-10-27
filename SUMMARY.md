@@ -11,4 +11,5 @@
    * [Membership](bylaws/membership.md)
    * Shares
    * Termination of Membership
+   * Membership Meetings and Members
 
