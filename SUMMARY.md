@@ -5,6 +5,7 @@
 * [Member Relations](member_relations.md)
 * [Client Interaction](client_interaction.md)
 * [Deception Techniques](deception_techniques.md)
+   * Appeals
 * [Articles of Incorporation](articles_of_incorporation.md)
 * [Bylaws](bylaws.md)
    * [Membership](bylaws/membership.md)
