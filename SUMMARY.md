@@ -11,7 +11,7 @@
    * [Membership](bylaws/membership.md)
    * [Shares](bylaws/shares.md)
    * [Termination of Membership](bylaws/termination_of_membership.md)
-   * Membership Meetings and Members
+   * [Membership Meetings and Members](bylaws/membership_meetings_and_members.md)
    * Directors
    * Officers
    * Corporate Records and Reports
