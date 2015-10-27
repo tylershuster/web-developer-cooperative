@@ -15,7 +15,7 @@
    * [Directors](bylaws/directors.md)
    * [Officers](bylaws/officers.md)
    * [Corporate Records and Reports](bylaws/corporate_records_and_reports.md)
-   * Inspection Rights
+   * [Inspection Rights](bylaws/inspection_rights.md)
    * Surplus Allocations and Distributions
    * Bylaw Changes
 
