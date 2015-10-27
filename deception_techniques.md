@@ -74,14 +74,7 @@ Un-, parenthetically, or implicitly qualified claims
 
 
 
-Fears:
-FEAR OF FAILURE
-FEAR OF POVERTY
-FEAR OF VIOLENCE
-FEAR OF BODILY EMBARRASSMENTS
-FEAR OF SEXUAL FAILURE
-FEAR OF FAILING TO PROVIDE
-FEAR OF AGING / SICKNESS
+
 
 The reason that these needs, associations, and fears are so powerful is that they resonate with most people due only to biology. They invoke a biological response, and advertising that uses that biological response to pull in wealth causes harm
 
