@@ -7,7 +7,7 @@
 * [Deception Techniques](deception_techniques.md)
    * [Appeals](deception_techniques/appeals.md)
    * [Associations](deception_techniques/associations.md)
-   * Fears
+   * [Fears](deception_techniques/fears.md)
 * [Articles of Incorporation](articles_of_incorporation.md)
 * [Bylaws](bylaws.md)
    * [Membership](bylaws/membership.md)
