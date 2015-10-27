@@ -10,7 +10,7 @@
 * [Bylaws](bylaws.md)
    * [Membership](bylaws/membership.md)
    * [Shares](bylaws/shares.md)
-   * Termination of Membership
+   * [Termination of Membership](bylaws/termination_of_membership.md)
    * Membership Meetings and Members
    * Directors
    * Officers
