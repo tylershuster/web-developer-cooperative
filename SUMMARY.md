@@ -12,4 +12,5 @@
    * Shares
    * Termination of Membership
    * Membership Meetings and Members
+   * Directors
 
