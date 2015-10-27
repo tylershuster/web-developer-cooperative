@@ -30,4 +30,6 @@ No onetime or regular membership fee shall be collected, but a percentage of com
 
 ##Section 1.07. Bylaws and Articles to Prospective Members
 The Articles of Incorporation, Bylaws, and disclosure document of the Corporation shall be made publicly available on the Corporation's website. Each prospective member shall be expected to electronically sign their acceptance of the terms specified therein.
-    
+
+##Section 1.08. Shareholders and Members
+"Shareholder" and "member" and their plurals shall be synonymous terms throughout these Bylaws.
