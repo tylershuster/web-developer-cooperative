@@ -1,11 +1,10 @@
 # Appeals
 
-Appeal to needs:
-THE NEED TO BE ACCEPTED BY OTHERS
-THE NEED TO HAVE MEMBERSHIP IN AN ELITE GROUP
-THE NEED FOR SELF-ACCEPTANCE
-THE NEED FOR SECURITY
-THE NEED FOR FAMILY
-THE NEED FOR CHANGE
-THE NEED FOR EXCITEMENT
-THE NEED TO ATTRACT SEX, BE SEXY , AND/OR HAVE SEX.
+###The Need To Be Accepted By Others
+###The Need To Have Membership In An Elite Group
+###The Need For Self-acceptance
+###The Need For Security
+###The Need For Family
+###The Need For Change
+###The Need For Excitement
+###The Need To Attract Sex, Be Sexy , And/or Have Sex.
