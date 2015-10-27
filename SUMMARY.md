@@ -17,5 +17,5 @@
    * [Corporate Records and Reports](bylaws/corporate_records_and_reports.md)
    * [Inspection Rights](bylaws/inspection_rights.md)
    * [Surplus Allocations and Distributions](bylaws/surplus_allocations_and_distributions.md)
-   * Bylaw Changes
+   * [Bylaw Changes](bylaws/bylaw_changes.md)
 
