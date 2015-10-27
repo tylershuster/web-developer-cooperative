@@ -13,7 +13,7 @@
    * [Termination of Membership](bylaws/termination_of_membership.md)
    * [Membership Meetings and Members](bylaws/membership_meetings_and_members.md)
    * [Directors](bylaws/directors.md)
-   * Officers
+   * [Officers](bylaws/officers.md)
    * Corporate Records and Reports
    * Inspection Rights
    * Surplus Allocations and Distributions
