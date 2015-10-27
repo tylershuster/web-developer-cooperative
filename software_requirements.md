@@ -7,7 +7,28 @@ This project will use as its organizational system software that must be able to
 
 
 Client information
--address, phone number, email, associated properties, billing information, contracts, communication pertinent to the whole organization
+- addresses
+- phone numbers
+- email addresses
+- associated properties
+- billing information
+- contracts
+- communication pertinent to the whole organization
 
 Property information
--Type of property, URI of property, access to property, information on work performed relating to property including checklists, documentation, tools used
+- Type
+- URI
+- Access information
+- Information on work performed including 
+    - checklists
+    - documentation
+    - tools used
+
+
+Security Requirements
+- No unencrypted data broadcast
+
+Contract Information
+
+Member Information
+- Skill levels & tests
