@@ -15,4 +15,5 @@
    * Directors
    * Officers
    * Corporate Records and Reports
+   * Inspection Rights
 
