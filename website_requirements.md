@@ -2,7 +2,9 @@
 
 ##Application for Admission
 
-##List of Current Members
+##Current Members
+
+##Current Board of Directors
 
 ##Articles of Incorporation
 - Prospective members can electronically sign
@@ -10,4 +12,8 @@
 ##Current Bylaws
 - Prospective members can electronically sign
 
-##Most Recent Annual Report
+##Annual Reports
+
+##Records
+
+##Meeting Minutes
