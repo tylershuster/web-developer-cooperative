@@ -17,4 +17,5 @@
    * Corporate Records and Reports
    * Inspection Rights
    * Surplus Allocations and Distributions
+   * Bylaw Changes
 
