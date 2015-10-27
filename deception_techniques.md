@@ -83,12 +83,3 @@ Repo with 'banned' phrases and words, with exceptions for the appropriate contex
 e.g. 'synergy'
 
 
-This project will use as its organizational system the control panel software. This software must be able to:
-Definitions:
-"property": any piece of intellectual property such as a website, advertisement, or other media
-
-Client information
--address, phone number, email, associated properties, billing information, contracts, communication pertinent to the whole organization
-
-Property information
--Type of property, URI of property, access to property, information on work performed relating to property including checklists, documentation, tools used
