@@ -6,7 +6,7 @@
 * [Client Interaction](client_interaction.md)
 * [Deception Techniques](deception_techniques.md)
    * [Appeals](deception_techniques/appeals.md)
-   * Associations
+   * [Associations](deception_techniques/associations.md)
    * Fears
 * [Articles of Incorporation](articles_of_incorporation.md)
 * [Bylaws](bylaws.md)
