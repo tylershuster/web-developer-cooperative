@@ -1,10 +1,22 @@
 #Redding Web Developer Cooperative
 
+This book will attempt to explain the incorporation of a cooperative effort of web developers, specifically in the region of Redding, California. The purpose of this book is threefold: to explain the need for a cooperative work structure, especially within the trade of web development; to explain the need to correct and the mechanisms by which advertising fosters unhealthy manipulation, recognizing that it is the task with which most web development agencies are concerned; and to incorporate an effort which addresses both these needs.
+
+##About the Author
+
+This book we be ingenuine without a brief introduction of the author. I have lived in the Redding, California region for all of my 25 years. I am of German and Scottish descent. I was raised to follow the Christian faith. I was schooled primarily by my parents, both educators, for my non-collegiate educational career. I received my Bachelor's Degree in English in 2011. I have been involved in web development since approximately 2005. I have worked in the field since 2012. Each of these facts informs but should not define what you are about to read.
+
 ##Introduction
 
-Include statement about context of creator's religious backgrounds, realize that these things have been left undeclared to the shame and guilt, &c
+In this section I attempt to explain some of the mechanisms which have led to the world's current financial situation.
 
-The Internet has more content than humanity has yet seen. It is the most complicated system ever created and helps us to automate our tasks at play and at work. However, mankind still faces many of its perennial problems. One of those is that the rich use their wealth to acquire more. That wealth comes from the poor, and is taken by exploiting their ignorance. Their ignorance is perpetuated by their poverty. While the Internet is the largest source of information, the quality of the information remains the same. Much of the information on the Internet is created primarily for the goal of profit. The most readily-accessible information is created and promoted in the service of the wealthy, who employ the less wealthy to curate it for them. It is important to note here a derivation of the law of conservation of mass: **Money cannot be made**, it can only be taken and given.
+The Internet has more content than humanity has yet seen. It is the most complicated system ever created and helps us to automate our tasks at play and at work. While this automation has undoubtedly facilitated the most significant advances in human society, that society still struggles with many underlying problems it has been unable to solve through any technology. One of those is that the rich use their wealth to acquire more. There is a pervasive understanding that one can "make money," but **money cannot be made**. It can only be taken and given.
+
+While there are those whose own foolishness led to their poverty, it cannot be denied that the money of the rich came from the poor. By and large that transfer was facilitated through the exploitation of ignorance. That is one of the points I will attempt to convey in this book.
+
+Information has always come at a certain cost, and so the ignorance of the poor is perpetuated by their poverty. While the Internet is the largest source of information, the quality of the information remains the same. Most high-quality information can only be accessed in exchange for money, and therefore the most common information is mostly low-quality. Much of this common information is created and promoted in the service of the wealthy, who employ the less wealthy to curate it for them. How many times have you visited a webpage looking for an answer and found it trying to convince you to buy a product? How many times have you seen a site with more than three advertisements? How many times have you visisted a site when the screen was covered by a box promoting an offer or product? These articles, advertisements, and pop-up boxes were almost assuredly not created by the person providing the product being sold; rather, by a copywriter, graphic designer, coder, or other web developer.
+
+It is important to note here a derivation of the law of conservation of mass: 
 
 The primary mechanism by which people acquire disproportionate wealth is manipulation. By manipulating the environment in which the people from whom they take money live, they can convince them to give the money they have
 
