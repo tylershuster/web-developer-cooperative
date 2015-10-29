@@ -1,6 +1,6 @@
 #Redding Web Developer Cooperative
 
-This book will attempt to explain the incorporation of a cooperative effort of web developers, specifically in the region of Redding, California. The purpose of this book is threefold: to explain the need for a cooperative work structure, especially within the trade of web development; to explain the need to correct and the mechanisms by which advertising fosters unhealthy manipulation, recognizing that it is the task with which most web development agencies are concerned; and to incorporate an effort which addresses both these needs.
+This book will attempt to explain the incorporation of a cooperative effort of web developers, specifically in the region of Redding, California. The purpose of this book is threefold: **1** to explain the need for a cooperative work structure, especially within the trade of web development; **2** to explain the need to correct and the mechanisms by which advertising fosters unhealthy manipulation, recognizing that it is the task with which most web development agencies are concerned; and **3** to incorporate an effort which addresses both these needs.
 
 ##About the Author
 
