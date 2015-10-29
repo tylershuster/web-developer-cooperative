@@ -35,12 +35,13 @@ These systems of information which have strayed so far from being purely factual
 My interest is not to equally distribute existing money across all members of humanity. I understand that for a man to eat, he must work. I have no interest in robbing the rich to feed the poor. However I am interested in re-shaping the systems of economy which have allowed the rich to rob the poor under the guise of legality by controlling methods of education while using their knowledge for profit.
 
 
-
+##Intention of this Effort
 My intention for the cooperative is to aid in the transformation of labor - to provide an example of how we can work together, not dependent on a human authority but governed by our own impetus toward authenticity. The impetus which drives me rejects hierarchical authority and so to do the work I have been given I hope to create or otherwise work within a power structure that is able to channel high creative energy into refined products. Works of lasting quality and high value must be created by satisfied individuals, not mechanically or begrudgingly.
 
 The structure of work tends toward this decentralization, evidenced by the movement towards smaller units of organization. In antiquity the labor force was orchestrated by the emperor. Since then, control of the laborers who are those doing the productive work (as opposed their managers) has been divided into smaller units, sequentially: kings, lords, barons, factory owners, foremen, CEOs, managers. This has been the necessary process to organize humans, within each of whom exists the struggle between laziness and motivation. The termination of this process occurs when each laborer is responsible for their own labor. This termination will occur simultaneously with the actualization of each human being - until then we will continue to see increasingly complex divisions. These divisions will be hard to comprehend and navigate for those who want to control others and/or want to be paid without doing productive work. The breaking-down of power structures moves toward the benefit of those who find fulfillment in exercising their talents.
 
 
+##Elevator Pitch
 
 We are a worker’s cooperative located in Redding, California. We are a group of professionals whose primary skills are related to the production of internet properties, such as webpages, websites, or apps.
 Each of these properties requires many different skills. The internet enables us to individually create complex web properties because we can lean on software or services that automate many tasks. These are essentially robots; they do complex tasks in a predefined way more quickly than a human. The web is full of robots, like so many marionettes.
@@ -54,7 +55,7 @@ We hope to be scientists.
 We support each other through our strengths.
 We are considering patrons.
 
-About the Effort
+##About the Effort
 This is a cooperative effort of professionals in the Redding area to create digital properties and maintain those that they create.
 It may consider maintenance of existing properties subject to a code review.
 The types of web properties it can create will vary according to its membership.
