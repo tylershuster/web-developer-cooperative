@@ -22,4 +22,5 @@
    * [Bylaw Changes](bylaws/bylaw_changes.md)
 * [Software Requirements](software_requirements.md)
 * [Website Requirements](website_requirements.md)
+* Organization Roles
 
