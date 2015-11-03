@@ -23,4 +23,5 @@
 * [Software Requirements](software_requirements.md)
 * [Website Requirements](website_requirements.md)
 * [Organization Roles](organization_roles.md)
+* Philosophy
 
