@@ -32,3 +32,6 @@ Contract Information
 
 Member Information
 - Skill levels & tests
+
+Holocracy
+- Tracking projects, tensions and nextactions
