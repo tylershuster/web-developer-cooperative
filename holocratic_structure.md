@@ -13,8 +13,12 @@ This organization will use version [4.1 of the Holocracy Constitution](https://g
 ###Architecture
 Structure, organization, science
 
+Add Policy: Cross Link with Aesthetic Circle
+
 ###Aesthetic
 Perception, feeling, experience
+
+Add Policy: Cross Link with Architecture Circle
 
 ###Content curation & creation
 
