@@ -41,7 +41,5 @@ The corporation of this effort has no political, religious, ethnic, ethical, or 
 * Both, however, represent the other and are expected to act respectively.
 Any canonical statements made by the corporation of this effort must be agreed upon unanimously, and represent only the concurrent members.
 Members will be compensated proportionally according to the value they contributed to the project.
-* This value will be calculated with each contract, and for each language they contribute to the project.
-* Languages include programming languages, visual languages (UX, UI), and other language-like skills including vector graphic design, &c.
-* Members’ score for each language will be determined by reviews of their exemplary work.
-* These reviews will be double-blind and weighted according to the reviewer’s skill with the same language.
+* This value will be calculated with each contract, and for each skill they contribute to the project.
+* Members’ multiplier for each skill will be tiered according to a formula, and advanced by peer review.
