@@ -1,6 +1,6 @@
 # Holocratic Structure
 
-This organization will use version [4.1 of the Holocracy Constitution](https://github.com/holacracyone/Holacracy-Constitution)
+Members of this organization agree to be bound by the processes in version 1.0 of the Redding Web Developer Cooperative Constitution. Forked from the [Holocracy Constitution](https://github.com/holacracyone/Holacracy-Constitution).
 
 ##Apps
 [Badge-based compensation structure](http://www.holacracy.org/badge-based-compensation-app/) fork
