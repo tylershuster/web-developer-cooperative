@@ -4,9 +4,9 @@ This organization will use version [4.1 of the Holocracy Constitution](https://g
 
 ##Circles
 
-###Development
+###Architecture
 
-###Design
+###Aesthetic
 
 ###Content curation & creation
 
@@ -14,7 +14,7 @@ This organization will use version [4.1 of the Holocracy Constitution](https://g
 
 ###Financial
 
-##Roles
+##Elected Roles
 
 ###Lead Architect
 
