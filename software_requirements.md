@@ -35,4 +35,4 @@ Member Information
 
 Holocracy
 - Tracking projects, tensions and nextactions
-- Github repository for policies and procedures of compnay
+- Github repository for policies, procedures, and records of projects of compnay
