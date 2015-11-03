@@ -35,5 +35,5 @@ Member Information
 
 Holocracy
 - Tracking projects, tensions and nextactions
-- Github repository for policies, procedures, and records of projects of compnay
+- Github repository for policies, procedures, and records of projects of company, as well as governance records for each circle
 - Voting system and logging system for tensions, proposals, and related tensions or objections
