@@ -5,8 +5,10 @@ This organization will use version [4.1 of the Holocracy Constitution](https://g
 ##Circles
 
 ###Architecture
+Structure, organization, science
 
 ###Aesthetic
+Perception, feeling, experience
 
 ###Content curation & creation
 
