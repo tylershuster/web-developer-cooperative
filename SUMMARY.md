@@ -20,7 +20,7 @@
    * [Inspection Rights](bylaws/inspection_rights.md)
    * [Surplus Allocations and Distributions](bylaws/surplus_allocations_and_distributions.md)
    * [Bylaw Changes](bylaws/bylaw_changes.md)
-   * Holocratic Structure
+   * [Holocratic Structure](holocratic_structure.md)
 * [Software Requirements](software_requirements.md)
 * [Website Requirements](website_requirements.md)
 * [Organization Roles](organization_roles.md)
