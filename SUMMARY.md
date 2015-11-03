@@ -21,6 +21,7 @@
    * [Surplus Allocations and Distributions](bylaws/surplus_allocations_and_distributions.md)
    * [Bylaw Changes](bylaws/bylaw_changes.md)
    * [Holocratic Structure](bylaws/holocratic_structure.md)
+   * Factual Promotion
 * [Software Requirements](software_requirements.md)
 * [Website Requirements](website_requirements.md)
 * [Organization Roles](organization_roles.md)
