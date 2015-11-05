@@ -1,0 +1,3 @@
+[submodule "Holacracy-Constitution"]
+	path = Holacracy-Constitution
+	url = https://github.com/tylershuster/Holacracy-Constitution.git
