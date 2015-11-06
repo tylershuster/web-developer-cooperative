@@ -1,9 +1,12 @@
 # Redding Web Developer Workers' Cooperative (RWDWC)
 
 Workers' Cooperative in Redding with a holocratic governance structure
+
 ---
 
 # What is a Cooperative?
+
+A cooperative business is a group of people working together to save costs on a common interest.
 
 ## Rochdale Principles
 - Voluntary and open membership
@@ -14,6 +17,9 @@ Workers' Cooperative in Redding with a holocratic governance structure
 - Cooperation among cooperatives
 - Concern for community
 
+???
+
+Rouchdale Principles were first established in 1844, this version dates to 1995
 
 ---
 
@@ -23,33 +29,96 @@ A workers' cooperative is a corporate structure in which each member is a voting
 
 Workers' cooperatives exist to allow each member of an organization equal input and a certain level of self-governance.
 
-People 'these days' and people who work on the internet especially have a number of skills, in some of which they specialize and in others they dabble with the hope of becoming better.
+---
 
-It seems to be that web developers hope to go into business themselves making websites, where they specialize in _most_ or many of the skills required to make a client's site, but lack the skills to complete the entire project at the same level of quality.*
+# Why a Web Developer Cooperative?
 
-So, this workers' cooperative exists to
-- harness the multifaceted skillsets of those in web development towards the medium- and large-scale efforts of its clients
-- allow its members to
-- - apply their specialties
-- - hone their interests
-- - work for a profit
+> Anyone who creates content:
+>
+> - Code
+> - Words
+> - Videos
+> - Images
+>
+> is in web development.
 
-In order to manage this decentralization of power, the cooperative will incorporate the principles of holacracy.
+The internet allows people to have more than one professional skill. People who work with the internet exemplify this.
+- Some of these skills are specialties
+- Some of these skills are hobbies
+
+The internet also allows people to more easily go into business themselves, especially web developers. However,
+- While we each may have _most_ of the skills to make a site,
+- We _will_ lack a few.
+- The areas in which we lack skill become the weak point of the product
+
+
+## So...
 
 ???
 
-*I say this because I personally have experienced many sites like this: created by someone really good at one area like user experience, client interaction, or coding, but demonstrating a severe lack in other areas
+I say this because I personally have experienced many sites like this: created by someone really good at one area like user experience, client interaction, or coding, but demonstrating a severe lack in other areas
+
+
+---
+
+# This workers' cooperative exists to
+
+- Provide a structure through which members may
+  - Apply their specialties
+  - Hone their interests
+  - Work for a profit
+- Harness the complex skillsets of members towards the needs of its clients
+
+
+---
+
+class: center
+
+# Holocracy
+In order to manage this decentralization of power, the cooperative will incorporate the principles of holacracy.
+
+
 
 ---
 
 # What is Holocracy?
 
-Holocracy is a governance structure in which the work to be done is divided into roles, and employees of the company are elected to fill those roles for as long as they exist.
+[Holocracy](http://holocracy.org) is a governance structure in which the work of the organization is divided into roles, and employees of the company are elected to fill those roles for as long as they exist.
 
-Differences between holacracy & traditional hierarchy:
+Differences between a traditional hierarchy and a holocracy:
 
+<table>
+  <thead>
+    <tr>
+      <th>Traditional Hierarchy</th>
+      <th>Holocracy</th>
+    <tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Work assigned to people</td>
+      <td>Work assigned to roles</td>
+    </tr>
+    <tr>
+      <td>Fixed job descriptions</td>
+      <td>Fluidity between roles</td>
+    </tr>
+    <tr>
+      <td>Accountable to manager</td>
+      <td>Accountable to circle</td>
+    </tr>
+    <tr>
+      <td>Power must be allowed</td>
+      <td>Allowed power by default</td>
+    </tr>
+  </tbody>
+</table>
 
-Roles may be divided into circles with their own roles, recursively.
+---
+
+# Roles
+
+Roles may be divided into circles with their own roles, **recursively**.
 
 Roles consist of:
 - Purpose
@@ -61,11 +130,11 @@ Each member may have more than one role, and each role may be filled by more tha
 
 ---
 
-# Initial Roles
+# RWDWC Initial Roles
 
 - Architecture
-- Aesthetic
-- Content
+- Aesthetics
+- Content Creation
 - Financial
 - Marketing
 
@@ -83,7 +152,7 @@ Each role has its accountabilities, which as the company grows may become too la
 
 Depending on the evolution of the company, the split may look like this:
 
-Aesthetic ->
+Aesthetics ->
 - User Experience Designer
 - Visual Designer
 - Cinemetographer
@@ -95,22 +164,70 @@ Each role will have a % compensation associated with it, which it may then furth
 
 ---
 
+With structure covered, let's talk about philosophy for a second. This isn't just another online marketing company.
+
+We've covered the Rouchdale Principles:
+- Voluntary and open membership &#x2713;
+- Democratic member control &#x2713;
+- Member economic participation &#x2713;
+- Autonomy and independence &#x2713;
+- Education, training, and information &#x2713;
+- Cooperation among cooperatives &#x2713; (if others exist)
+- Concern for community ?
+
+How does a web developer cooperative demonstrate concern for its community?
+
+---
+
 # Concern for Community
 
-So how does a web developer cooperative demonstrate concern for its community? Encouraging its members to be charitable is not enough. The organization needs to recognize its role in the community, find ways in which it can positively enact that role, and correct ways in which it negatively enacts that role.
+Encouraging its members to be charitable is not enough. The organization needs to recognize its role in the community, find ways in which it can positively enact that role, and correct ways in which it negatively enacts that role.
+
+--
 
 ## Q. What is a web developer's role in the community?
 
-Well, in theory, the web will replace or become integrated with every physical manifestation of human expression. Signs, writing, drawing, construction are all facilitated by the interlinking of information that is the web. So if the purpose of human expression is to convey ideas, the job of the web developer is...
+Well, in theory, the web will replace or become integrated with every physical manifestation of human expression. Signs, writing, drawing, construction are all facilitated by the interlinking of information that is the web. So if the purpose of human expression is to convey ideas, the role of the web developer is...
 
-## A. Promotion of ideas
+## A. Promoting ideas
+Web development is about promoting ideas.
+- Site developers promote the product, service or organization of the site
+- App developers promote the application
+- Advertisers promote a product
 
 ---
 
 # Positive Promotion of Ideas
 
+Everyone hopes that they are promoting positive ideas:
+- A site for a cause we're interested in
+- A community site
+- A product for a friend
+
+We should continue to use our skills for ideas we are earnestly interested in.
+
 ---
 
 # Negative Promotion of Ideas
 
-Recognizing that the role of web development is to sell or otherwise market a product, service, or company, this cooperative is committed to factual representation as both a matter of its clients' interests and the interests of consumers. This committment exists to prevent negative ramifications due to later disclosure, as well as to provide the most accurate information to the clients' intended customer.
+However, promotion (our primary duty) is <u>selling</u>.
+
+**Money cannot be made, only given and taken.**
+
+**Selling involves taking money from people.**
+
+--
+
+Edward Bernays was the nephew of Sigmund Freud, and used his uncle's research to sell products to people, inventing the term **"The Engineering of Consent"**.
+
+His techniques involved using the audience's unconscious desires to manipulate them into buying.
+
+Since then, his techniques have become so pervasive that marketers unconsciously use these manipulation techniques.
+
+(images here)
+
+---
+
+## Selling Honestly
+
+This cooperative is committed to factual representation as both a matter of its clients' interests and the interests of consumers. This committment exists to prevent negative ramifications due to later disclosure, as well as to provide the most accurate information to the clients' intended customer.
