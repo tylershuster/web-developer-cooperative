@@ -42,3 +42,48 @@ The structure of work tends toward this decentralization, evidenced by the movem
 
 
 This represents a flip considering compensation and work. It seems that many companies exist to bring in compensation. The purpose of this company is to apportion work to fulfilled individuals, and the compensation is what flows out as a result of completed work.
+
+
+
+
+
+This page represents the philosophy of this effort, the reasons and the methods to enact those reasons.
+## We Do This For You
+Recognizing:
+* that the creation of intellectual property to promote a party which sells goods (es.g. a website, business cards, branding materials) involves the promotion of those goods in an environment saturated by similar promotions,
+* that this media-saturated environment comprises [supernormal] stimuli](https://en.wikipedia.org/wiki/Supernormal_stimulus),
+* that these supernormal stimuli have instigated negative ecological and psychological effects,
+* and that given access to objective information about a good or service, prospective buyers will tend toward the [parity product](https://en.wikipedia.org/wiki/Parity_product) with the greatest value;
+this effort commits to creating intellectual properties which objectively and minimally promote their project, and to make the value of those products apparent by their own merits, and not through lies or exaggeration.
+IN SUM: We are passionate about the quality of our craft and we work with others who are.
+
+## We Do This For Us
+Recognizing:
+* that works created for profit at the expense of quality are harder to maintain or upgrade,
+* that works created in the pursuit of quality cost more to develop,
+* and that while life and livelihood do not depend on monetary throughput, there is an historical tradition of their association in which the members of this effort engage,
+this effort commits to developing a method that provides work proportionally for its members determined by their talent, inspiration, and ability alone.
+IN SUM: we do this to make money but we want to keep that from corrupting our motivation.
+ 
+We hold these statements regarding our craft to be true:
+* Web pages are always changing, and the limits of their capability have not yet ceased to expand.
+* There have been no perfect websites yet. All code is contingent upon the stability & security of other code.
+* While not all open-source software will be sustainable, the most sustainable software will be open-source.
+* The internet is ideally all information that humanity has discerned.
+* Search engines, the primary method through which websites are located, seek to find the information most relevant to their user’s query.
+* The information contained in a web property should exist for the end user’s enrichment only and not to manipulate the search engine (“gaming the system”).
+* Exaggerating or falsifying information about an organization in an effort to increase search engine visibility corrupts the integrity of the internet.
+* Additionally, this exaggerated or falsified information will eventually be eradicated by algorithm.
+Therefore, to ensure the preservation, discovery, and interlinking of information:
+* Internet engineers should seek to create the most accurate, most organized version of an organization’s information.
+* Copy (that is, non-structured data) that purports to represent an organization should be based in fact and defensible.
+* Internet engineers should seek the highest possible level of standards compliance and design systems with the possibility of unlimited outward expansion in mind.
+* Systems should be modular and upgradeable with a minimum amount of work by future engineers. (low technical debt)
+* Requirements for understanding and upgrading a system should be clearly documented in a conspicuous place within the system.
+
+## IN SUM
+TRUTH IS MORE IMPORTANT THAN MONEY
+( this recognizes that some of us tasked with creating words and other representations of ideas have made the decision to value money over honest representation and the world has suffered for it )
+OPENNESS IS MORE IMPORTANT THAN SUCCESS
+( this recognizes that some keepers of information have concealed facts for the sake of personal success and this has been an expense to the system as a whole )
+THIS EFFORT AFFIRMS THAT WORK CREATED AT THE EXPENSE OF ONE’S WHOLE SELF TO THE BENEFIT OF THE LARGER WHOLE WILL BE PROPORTIONALLY MORE FULFILLING, ENDURING, AND USEFUL
