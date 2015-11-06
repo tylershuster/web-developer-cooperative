@@ -8,6 +8,8 @@ Workers' Cooperative in Redding with a holocratic governance structure
 
 A cooperative business is a group of people working together to save costs on a common interest.
 
+--
+
 ## Rochdale Principles
 - Voluntary and open membership
 - Democratic member control
@@ -42,6 +44,8 @@ Workers' cooperatives exist to allow each member of an organization equal input 
 >
 > is in web development.
 
+--
+
 The internet allows people to have more than one professional skill. People who work with the internet exemplify this.
 - Some of these skills are specialties
 - Some of these skills are hobbies
@@ -51,13 +55,13 @@ The internet also allows people to more easily go into business themselves, espe
 - We _will_ lack a few.
 - The areas in which we lack skill become the weak point of the product
 
-
-## So...
-
 ???
 
 I say this because I personally have experienced many sites like this: created by someone really good at one area like user experience, client interaction, or coding, but demonstrating a severe lack in other areas
 
+---
+
+## So...
 
 ---
 
@@ -67,6 +71,7 @@ I say this because I personally have experienced many sites like this: created b
   - Apply their specialties
   - Hone their interests
   - Work for a profit
+--
 - Harness the complex skillsets of members towards the needs of its clients
 
 
@@ -87,7 +92,7 @@ In order to manage this decentralization of power, the cooperative will incorpor
 
 Differences between a traditional hierarchy and a holocracy:
 
-<table>
+<table style="width:100%table-layout:fixed">
   <thead>
     <tr>
       <th>Traditional Hierarchy</th>
@@ -119,13 +124,13 @@ Differences between a traditional hierarchy and a holocracy:
 # Roles
 
 Roles may be divided into circles with their own roles, **recursively**.
-
+--
 Roles consist of:
 - Purpose
 - Domain
 - Accountabilities
 - Compensation
-
+--
 Each member may have more than one role, and each role may be filled by more than one member, as long as a compensation plan can be established.
 
 ---
@@ -137,8 +142,6 @@ Each member may have more than one role, and each role may be filled by more tha
 - Content Creation
 - Financial
 - Marketing
-
-(These are in addition to the roles required by legal incorporation.)
 
 ???
 
@@ -189,6 +192,8 @@ Encouraging its members to be charitable is not enough. The organization needs t
 
 Well, in theory, the web will replace or become integrated with every physical manifestation of human expression. Signs, writing, drawing, construction are all facilitated by the interlinking of information that is the web. So if the purpose of human expression is to convey ideas, the role of the web developer is...
 
+---
+
 ## A. Promoting ideas
 Web development is about promoting ideas.
 - Site developers promote the product, service or organization of the site
@@ -211,12 +216,12 @@ We should continue to use our skills for ideas we are earnestly interested in.
 # Negative Promotion of Ideas
 
 However, promotion (our primary duty) is <u>selling</u>.
-
+--
 **Money cannot be made, only given and taken.**
-
+--
 **Selling involves taking money from people.**
 
---
+---
 
 Edward Bernays was the nephew of Sigmund Freud, and used his uncle's research to sell products to people, inventing the term **"The Engineering of Consent"**.
 
