@@ -236,8 +236,8 @@ Differences between a traditional hierarchy and a holocracy:
       <td>Accountable to circle</td>
     </tr>
     <tr>
-      <td>Power must be allowed</td>
-      <td>Allowed power by default</td>
+      <td>Power must be allowed (754)</td>
+      <td>Allowed power by default (775)</td>
     </tr>
   </tbody>
 </table>
@@ -268,6 +268,10 @@ Roles consist of:
 
 Each member may have more than one role, and each role may be filled by more than one member.
 
+???
+
+[Glassfrog Demo](https://glassfrog.holacracy.org/organizations/5)
+
 ---
 
 # RWDWC Initial Roles
@@ -287,6 +291,14 @@ These initial roles will probably only exist as roles, not circles for a very sh
 # Role Splitting
 
 Each role has its accountabilities, which as the company grows may become too large for one person to handle many. At this point the role may be turned into a circle, and roles defined within it, which may or may not match the initial role's accountabilities.
+
+???
+
+Note: The holacracy constitution uses the word 'expand' for the same process I call splitting. My reason is as such: Companies are responsible for a certain domain: in this case Web Development in Redding, and the company should be the mechanism by which work within that domain is allocated, not a competitor with other corporations. Therefore, companies should not grow; however, they should increase their employee capacity. The idea of a company growing pushes the workers into a realm where they don't matter as much as the existence of their position.
+
+Companies originally grew because there was so much to do. We've reached saturation - enough is being done. What we need now is for everyone to do something.
+
+
 
 --
 
